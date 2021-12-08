@@ -15,6 +15,7 @@ public class SpringJenkinsApplication {
 	public  void intt() {
 		logger.info("Application Started..");
 		logger.info("Application Started two...");
+		logger.info("Application Started three...");
 	}
 	
 
